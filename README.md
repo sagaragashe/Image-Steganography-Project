@@ -1,5 +1,8 @@
 # Image-Steganography-Project
 
+Steganography is the art of hiding a message. This project helps to  hiding confidential information  and messages within in image..
+
+
 **objectives**
 
 •	To concentrate on the data security issues when sending the data over the network using steganography techniques. 
