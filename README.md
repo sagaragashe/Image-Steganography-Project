@@ -2,17 +2,17 @@
 
 **objectives**
 •	To concentrate on the data security issues when sending the data over the network using steganography techniques. 
+
 •	To include security tool based on steganography techniques to hider message carried by stego-media which should not be sensible to human beings 
+
 •	To avoid drawing suspicion to the existence of a hidden message. 
 
 **Requirements**
 
 **Python IDE**
-An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently.
-The project is written in the code editor Visual Studio Code, which is redefined and optimized for building and debugging modern web and cloud applications. The code of the project is written using the python programming languages. It requires Python Version 3.11.2
+
  
-Third party Libraries 
-In our project work, we have used several open-source third-party libraries. In this section, we furnish the details of the libraries we have used.
+**Libraries**
 
 **Stegno**
 Stegano, a pure Python Steganography module. Steganography is the art and science of writing hidden messages in such a way that no one, apart from the sender and intended recipient, suspects the existence of the message, a form of security through obscurity.
